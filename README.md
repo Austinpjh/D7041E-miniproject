@@ -87,17 +87,10 @@ The performance of the models is summarized below:
 ---
 
 ## **Usage**
-1. Clone the repository and install the necessary libraries:
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
-   pip install -r requirements.txt
-   ```
-
-2. Run the project script:
+1. Run the project script:
    ```bash
    python mini_project.py
    ```
 
-3. Results will be printed to the console.
+2. Results will be printed to the console.
 
